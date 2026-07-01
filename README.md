@@ -1,25 +1,33 @@
-# Practice Red Hat Enterprise Linux Programming Courses
+# Red Hat Enterprise Linux Practice Courses
 
-## Languages
+**Languages:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-<div align="center">
-<img width="128px" src="https://file.labex.io/upload/u/1991/FIhSmlSxMHr1.png">
-</div>
+<p align="center">
+  <a href="https://labex.io/learn/rhel">
+    <img width="128" src="https://file.labex.io/upload/u/1991/FIhSmlSxMHr1.png" alt="Red Hat Enterprise Linux">
+  </a>
+</p>
 
 Learn Red Hat Enterprise Linux (RHEL), a robust, commercial Linux distribution designed for enterprise environments. This comprehensive Learning Path offers a structured roadmap for mastering RHEL administration and deployment. These Red Hat Enterprise Linux Courses are designed for beginners, system administrators, DevOps engineers, and IT professionals, covering system management, security, networking, and enterprise-level Linux operations. Gain real-world experience through hands-on, non-video courses and practical exercises in interactive lab environments to manage enterprise Linux systems effectively.
 
-|   Index | Name                                                                                                                                                           | Difficulty   | Repo                                                                                           | Practice                                                                                       |
-|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
-|       1 | [Red Hat System Administration (RH124) Certification Labs](https://labex.io/courses/red-hat-system-administration-rh124-labs)                                  | Beginner     | [🔗 Repo](https://github.com/labex-labs/red-hat-system-administration-rh124-labs)               | [🚀 Start Lab](https://labex.io/courses/red-hat-system-administration-rh124-labs)               |
-|       2 | [Red Hat System Administration (RH134) Certification Labs](https://labex.io/courses/red-hat-system-administration-rh134-labs)                                  | Beginner     | [🔗 Repo](https://github.com/labex-labs/red-hat-system-administration-rh134-labs)               | [🚀 Start Lab](https://labex.io/courses/red-hat-system-administration-rh134-labs)               |
-|       3 | [Red Hat Enterprise Linux Automation with Ansible (RH294) Certification Labs](https://labex.io/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | Beginner     | [🔗 Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [🚀 Start Lab](https://labex.io/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
-|       4 | [RHCSA Certification Exam Practice Exercises](https://labex.io/courses/rhcsa-certification-exam-practice-exercises)                                            | Beginner     | [🔗 Repo](https://github.com/labex-labs/rhcsa-certification-exam-practice-exercises)            | [🚀 Start Lab](https://labex.io/courses/rhcsa-certification-exam-practice-exercises)            |
+[Explore Courses on LabEx](https://labex.io/learn/rhel)
 
-## More
+|   Index | Course                                                                                                                                                         | Difficulty   | Repository                                                                                   | Practice                                                                                     |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+|      01 | [Red Hat System Administration (RH124) Certification Labs](https://labex.io/courses/red-hat-system-administration-rh124-labs)                                  | Beginner     | [Repo](https://github.com/labex-labs/red-hat-system-administration-rh124-labs)               | [Start Lab](https://labex.io/courses/red-hat-system-administration-rh124-labs)               |
+|      02 | [Red Hat Enterprise Linux Automation with Ansible (RH294) Certification Labs](https://labex.io/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) | Beginner     | [Repo](https://github.com/labex-labs/red-hat-enterprise-linux-automation-with-ansible-rh294) | [Start Lab](https://labex.io/courses/red-hat-enterprise-linux-automation-with-ansible-rh294) |
+|      03 | [RHCSA Certification Exam Practice Exercises](https://labex.io/courses/rhcsa-certification-exam-practice-exercises)                                            | Beginner     | [Repo](https://github.com/labex-labs/rhcsa-certification-exam-practice-exercises)            | [Start Lab](https://labex.io/courses/rhcsa-certification-exam-practice-exercises)            |
+|      04 | [Red Hat System Administration (RH134) Certification Labs](https://labex.io/courses/red-hat-system-administration-rh134-labs)                                  | Beginner     | [Repo](https://github.com/labex-labs/red-hat-system-administration-rh134-labs)               | [Start Lab](https://labex.io/courses/red-hat-system-administration-rh134-labs)               |
+|      05 | [30 Days of RHCSA](https://labex.io/courses/30-days-of-rhcsa-challenges)                                                                                       | Intermediate | [Repo](https://github.com/labex-labs/30-days-of-rhcsa-challenges)                            | [Start Lab](https://labex.io/courses/30-days-of-rhcsa-challenges)                            |
+|      06 | [RHCSA Practice Exam 01](https://labex.io/courses/rhcsa-practice-exam-01)                                                                                      | Intermediate | [Repo](https://github.com/labex-labs/rhcsa-practice-exam-01)                                 | [Start Lab](https://labex.io/courses/rhcsa-practice-exam-01)                                 |
+|      07 | [RHCE in Enterprise Linux Prep (EX342)](https://labex.io/courses/rhce-enterprise-linux-prep)                                                                   | Intermediate | [Repo](https://github.com/labex-labs/rhce-enterprise-linux-prep)                             | [Start Lab](https://labex.io/courses/rhce-enterprise-linux-prep)                             |
+|      08 | [RHCSA Practice Exam 02](https://labex.io/courses/rhcsa-practice-exam-02)                                                                                      | Intermediate | [Repo](https://github.com/labex-labs/rhcsa-practice-exam-02)                                 | [Start Lab](https://labex.io/courses/rhcsa-practice-exam-02)                                 |
+|      09 | [RHCE in Enterprise Linux Practice Exam 01](https://labex.io/courses/rhce-enterprise-linux-practice-exam-01)                                                   | Advanced     | [Repo](https://github.com/labex-labs/rhce-enterprise-linux-practice-exam-01)                 | [Start Lab](https://labex.io/courses/rhce-enterprise-linux-practice-exam-01)                 |
+|      10 | [RHCE in Enterprise Linux Practice Exam 02](https://labex.io/courses/rhce-enterprise-linux-practice-exam-02)                                                   | Advanced     | [Repo](https://github.com/labex-labs/rhce-enterprise-linux-practice-exam-02)                 | [Start Lab](https://labex.io/courses/rhce-enterprise-linux-practice-exam-02)                 |
 
-- 🔗 [Red Hat Enterprise Linux Free Tutorials](https://github.com/labex-labs/rhel-free-tutorials)
-- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+[View More on LabEx](https://labex.io/learn/rhel)
+
+## About LabEx
+
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
